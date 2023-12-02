@@ -1,5 +1,6 @@
 # -Image-Format-Converter
 可以单个/批量将图片转换格式
+You can convert images to format individually/in batches
 # 1.添加图片
 在软件界面中，你会看到一个 "添加图片" 按钮。点击该按钮，然后选择你要转换的图片文件,你可以选择一个文件夹进行图片文件批量转换。
 
@@ -17,3 +18,21 @@
 
 # 6.完成和保存
 当转换完成后，软件会显示转换成功的消息。你可以在输出路径中找到转换后的图片文件。根据需要，你可以进一步处理或使用这些转换后的图片。
+
+# 1. Add images
+In the software interface, you will see a "Add Image" button. Click this button, then select the image file you want to convert. You can select a folder for batch conversion of image files.
+
+# 2. Select output format
+After adding images, you need to select the output image format from the dropdown menu and choose the desired output format, such as JPEG, PNG, GIF, etc.
+
+# 3. Specify output path
+After configuring the conversion options, you need to specify the path to save the output image. Click the "Output Path" button and select the folder where you want to save the converted images.
+
+# 4. Start conversion
+After everything is ready, click the "Start Conversion" button in the software interface to start the image format conversion operation. The software will convert the selected image file to the specified output format and save it to the output path you specified.
+
+# 5. Wait for conversion to complete
+The conversion process may take some time, depending on the number of images you choose and the complexity of the conversion options. Please be patient and wait for the conversion to complete. The software will display a progress bar for you to understand the progress of the conversion.
+
+# 6. Complete and Save
+After the conversion is completed, the software will display a message indicating successful conversion. You can find the converted image file in the output path. You can further process or use these converted images as needed.
